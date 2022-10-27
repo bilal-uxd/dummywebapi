@@ -1,0 +1,18 @@
+{
+  "name": "dummywebapi",
+  "version": "1.0.0",
+  "description": "dummy changes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=12 <=14.20.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
